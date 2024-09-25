@@ -1,0 +1,5 @@
+SELECT c.*, l.Localidad FROM Clientes c
+JOIN Localidades l 
+ON c.IdLocalidad = l.IdLocalidad
+JOIN TiposDocs t
+ON c.IdTipoDoc = t.IdTipoDoc;
