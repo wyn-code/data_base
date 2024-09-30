@@ -20,3 +20,17 @@ C:\Users\bruno\OneDrive\Desktop\pract_papu\database\practica_papu\obj\Debug\data
 C:\Users\bruno\OneDrive\Desktop\pract_papu\database\practica_papu\obj\Debug\data_base.csproj.CoreCompileInputs.cache
 C:\Users\bruno\OneDrive\Desktop\pract_papu\database\practica_papu\obj\Debug\practica_papu.exe
 C:\Users\bruno\OneDrive\Desktop\pract_papu\database\practica_papu\obj\Debug\practica_papu.pdb
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\bin\Debug\practica_papu.exe.config
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\bin\Debug\practica_papu.exe
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\bin\Debug\practica_papu.pdb
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\data_base.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\practica_papu.FormCliente.resources
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\practica_papu.FormLocalidad.resources
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\practica_papu.Properties.Resources.resources
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\practica_papu.VerLocalidades.resources
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\data_base.csproj.GenerateResource.cache
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\data_base.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\practica_papu.exe
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\practica_papu.pdb
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\practica_papu.frmMenu.resources
+C:\Users\bruno\OneDrive\Desktop\data_base\database\practica_papu\obj\Debug\practica_papu.VerClientes.resources
