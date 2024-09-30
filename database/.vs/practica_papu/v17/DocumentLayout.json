@@ -1,34 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\",
+  "WorkspaceRootPath": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|c:\\users\\bruno\\onedrive\\desktop\\data_base\\database\\practica_papu\\verclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\verclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|c:\\users\\bruno\\onedrive\\desktop\\pract_papu\\database\\practica_papu\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|c:\\users\\bruno\\onedrive\\desktop\\data_base\\database\\practica_papu\\verclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\verclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|c:\\users\\bruno\\onedrive\\desktop\\data_base\\database\\practica_papu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|c:\\users\\bruno\\onedrive\\desktop\\data_base\\database\\practica_papu\\verlocalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\verlocalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|c:\\users\\bruno\\onedrive\\desktop\\data_base\\database\\practica_papu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|c:\\users\\bruno\\onedrive\\desktop\\data_base\\database\\practica_papu\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\formlocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\formlocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\formlocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\formlocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\Metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\Metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\Metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\FormLocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\FormLocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\formlocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\formlocalidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|c:\\users\\bruno\\onedrive\\desktop\\data_base\\database\\practica_papu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|c:\\users\\bruno\\onedrive\\desktop\\data_base\\database\\practica_papu\\verlocalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{265C11A9-F0D6-4410-93FD-AF02BCF30119}|practica_papu\\data_base.csproj|solutionrelative:practica_papu\\verlocalidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,50 +90,112 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\App.config",
-              "RelativeDocumentMoniker": "practica_papu\\App.config",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\App.config",
-              "RelativeToolTip": "practica_papu\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-25T18:24:20.508Z",
+              "DocumentIndex": 1,
+              "Title": "VerClientes.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\VerClientes.cs",
+              "RelativeDocumentMoniker": "practica_papu\\VerClientes.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\VerClientes.cs",
+              "RelativeToolTip": "practica_papu\\VerClientes.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAewE8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:36:13.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\Program.cs",
-              "RelativeDocumentMoniker": "practica_papu\\Program.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\Program.cs",
-              "RelativeToolTip": "practica_papu\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Title": "VerClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\VerClientes.cs",
+              "RelativeDocumentMoniker": "practica_papu\\VerClientes.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\VerClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practica_papu\\VerClientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T22:02:00.482Z",
+              "WhenOpened": "2024-09-30T19:25:58.016Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\Menu.cs",
+              "RelativeDocumentMoniker": "practica_papu\\Menu.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\Menu.cs",
+              "RelativeToolTip": "practica_papu\\Menu.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwCUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:23:15.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\Menu.cs",
+              "RelativeDocumentMoniker": "practica_papu\\Menu.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practica_papu\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:22:00.839Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\Program.cs",
+              "RelativeDocumentMoniker": "practica_papu\\Program.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\Program.cs",
+              "RelativeToolTip": "practica_papu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:14:24.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VerLocalidades.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\VerLocalidades.cs",
+              "RelativeDocumentMoniker": "practica_papu\\VerLocalidades.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\VerLocalidades.cs",
+              "RelativeToolTip": "practica_papu\\VerLocalidades.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:00:41.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VerLocalidades.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\VerLocalidades.cs",
+              "RelativeDocumentMoniker": "practica_papu\\VerLocalidades.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\VerLocalidades.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practica_papu\\VerLocalidades.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:56:00.227Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FormCliente.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\FormCliente.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\FormCliente.cs",
               "RelativeDocumentMoniker": "practica_papu\\FormCliente.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\FormCliente.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\FormCliente.cs",
               "RelativeToolTip": "practica_papu\\FormCliente.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAswBYAAAAMAAAA",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAqwKAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T21:25:18.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "FormCliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\FormCliente.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\FormCliente.cs",
               "RelativeDocumentMoniker": "practica_papu\\FormCliente.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\FormCliente.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\FormCliente.cs [Dise\u00F1o]",
               "RelativeToolTip": "practica_papu\\FormCliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T19:29:31.788Z",
@@ -121,38 +203,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Metodos.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\Metodos.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\Metodos.cs",
               "RelativeDocumentMoniker": "practica_papu\\Metodos.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\Metodos.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\Metodos.cs",
               "RelativeToolTip": "practica_papu\\Metodos.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAswCsAAAAFAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:42:57.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormLocalidad.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\FormLocalidad.cs",
-              "RelativeDocumentMoniker": "practica_papu\\FormLocalidad.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\FormLocalidad.cs",
-              "RelativeToolTip": "practica_papu\\FormLocalidad.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAASwDwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:08:55.737Z"
+              "WhenOpened": "2024-09-24T20:42:57.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FormLocalidad.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\database\\practica_papu\\FormLocalidad.cs",
+              "Title": "FormLocalidad.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\FormLocalidad.cs",
               "RelativeDocumentMoniker": "practica_papu\\FormLocalidad.cs",
-              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\pract_papu\\practica_papu\\practica_papu\\FormLocalidad.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\practica_papu\\practica_papu\\FormLocalidad.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\FormLocalidad.cs",
+              "RelativeToolTip": "practica_papu\\FormLocalidad.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDQAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T19:00:24.966Z"
+              "WhenOpened": "2024-09-23T19:08:55.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormLocalidad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\FormLocalidad.cs",
+              "RelativeDocumentMoniker": "practica_papu\\FormLocalidad.cs",
+              "ToolTip": "C:\\Users\\bruno\\OneDrive\\Desktop\\data_base\\database\\practica_papu\\FormLocalidad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "practica_papu\\FormLocalidad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:00:24.966Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         },

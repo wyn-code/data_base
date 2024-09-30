@@ -71,7 +71,7 @@
             this.Controls.Add(this.dgvClient);
             this.Name = "VerClientes";
             this.Text = "Listado de Clientes";
-            this.Activated += new System.EventHandler(this.chkBox_CheckedChanged);
+            this.Activated += new System.EventHandler(this.VerClientes_Load);
             this.Load += new System.EventHandler(this.VerClientes_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvClient)).EndInit();
             this.ResumeLayout(false);
