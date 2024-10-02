@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\practica_papu",
-    "\\practica_papu\\practica_papu"
+    "\\database",
+    "\\database\\practica_papu"
   ],
-  "SelectedNode": "\\practica_papu\\practica_papu\\FormLocalidad.cs",
+  "SelectedNode": "\\database\\practica_papu\\FormCliente.cs",
   "PreviewInSolutionExplorer": false
 }
