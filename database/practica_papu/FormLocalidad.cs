@@ -51,7 +51,7 @@ namespace practica_papu
             if (validar()) 
             {
                     string query = $"INSERT INTO Localidades (codigopostal, localidad) VALUES " +
-                $"('{txtCod.Text}', '{txtLocal.Text}')";
+                    $"('{txtCod.Text}', '{txtLocal.Text}')";
                     Metodos.Cargar(query);
 
                     MessageBox.Show("Localidad Registrada!", "ATENCION", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);

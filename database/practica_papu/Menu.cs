@@ -24,18 +24,20 @@ namespace practica_papu
 
         private void frmMenu_Load(object sender, EventArgs e)
         {
-
+            this.CenterToScreen();
         }
 
         private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            this.CenterToScreen();
+            VerClientes frmVerClient = new VerClientes();
+            frmVerClient.ShowDialog();
         }
 
         private void localidadesToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            VerLocalidades formVerLocalidades = new VerLocalidades();
-            formVerLocalidades.ShowDialog();
+            VerLocalidades frmVerLocal = new VerLocalidades();
+            frmVerLocal.ShowDialog();
             this.CenterToScreen();
         }
     }

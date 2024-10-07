@@ -16,7 +16,7 @@ namespace practica_papu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new VerClientes());
+            Application.Run(new frmMenu());
         }
     }
 }

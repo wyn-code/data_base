@@ -21,17 +21,17 @@ namespace practica_papu
         {
             this.CenterToScreen();
 
+            chkBox.Checked = true;
+
             DataTable dt = new DataTable();
             string query = "SELECT * FROM Localidades ORDER BY Localidad ASC";
             dt = Metodos.Leer(query);
             cmbListClient.DataSource = dt;
             cmbListClient.ValueMember = "IdLocalidad";
             cmbListClient.DisplayMember = "Localidad";
-            cmbListClient.SelectedIndex = 0;
             cmbListClient.DropDownStyle = ComboBoxStyle.DropDownList;
-            chkBox.Checked = true;
+            cmbListClient.SelectedIndex = 0;
 
-            CargarGrilla();
 
         } 
 
@@ -41,14 +41,19 @@ namespace practica_papu
 
             if (chkBox.Checked == true)
             {
-                query = "SELECT c.*, l.Localidad, t.TipoDoc FROM Clientes c JOIN Localidades l " +
-                        "ON c.IdLocalidad = l.IdLocalidad JOIN TiposDocs t ON c.IdTipoDoc = t.IdTipoDoc " +
-                        "ORDER BY Nombre, Apellido ASC";
-            } else
+                query = "SELECT c1.*, TipoDoc FROM " +
+                        "(SELECT c.*, Localidad FROM Clientes c JOIN Localidades l ON c.IdLocalidad = l.IdLocalidad) " +
+                        "AS c1 JOIN TiposDocs t ON c1.IdTipoDoc = t.IdTipoDoc " +
+                        "ORDER BY Apellido, Nombre ASC";
+            }
+            else
             {
-                query = $"SELECT c.*, l.Localidad, t.TipoDoc FROM Clientes c JOIN Localidades l " +
-                        $"ON c.IdLocalidad = l.IdLocalidad JOIN TiposDocs t ON c.IdTipoDoc = t.IdTipoDoc " +
-                        $"WHERE c.IdLocalidad = {cmbListClient.SelectedValue} ORDER BY Nombre, Apellido ASC";
+                query = $"SELECT c1.*, TipoDoc FROM " +
+                        $"(SELECT c.*, Localidad FROM Clientes c JOIN Localidades l ON c.IdLocalidad = l.IdLocalidad) " +
+                        $"AS c1 JOIN TiposDocs t ON c1.IdTipoDoc = t.IdTipoDoc " +
+                        $"WHERE c1.IdLocalidad = {cmbListClient.SelectedValue} " +
+                        $"ORDER BY Apellido, Nombre ASC;";
+
             }
 
             DataTable dt = new DataTable();
@@ -77,6 +82,16 @@ namespace practica_papu
                 cmbListClient.Enabled = true;   
             }
 
+            CargarGrilla();
+        }
+
+        private void VerClientes_Activated(object sender, EventArgs e)
+        {
+            CargarGrilla();
+        }
+
+        private void cmbListClient_SelectedIndexChanged(object sender, EventArgs e)
+        {
             CargarGrilla();
         }
     }

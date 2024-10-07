@@ -60,6 +60,7 @@
             this.cmbListClient.Name = "cmbListClient";
             this.cmbListClient.Size = new System.Drawing.Size(341, 21);
             this.cmbListClient.TabIndex = 2;
+            this.cmbListClient.SelectedIndexChanged += new System.EventHandler(this.cmbListClient_SelectedIndexChanged);
             // 
             // VerClientes
             // 
@@ -71,7 +72,7 @@
             this.Controls.Add(this.dgvClient);
             this.Name = "VerClientes";
             this.Text = "Listado de Clientes";
-            this.Activated += new System.EventHandler(this.VerClientes_Load);
+            this.Activated += new System.EventHandler(this.VerClientes_Activated);
             this.Load += new System.EventHandler(this.VerClientes_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvClient)).EndInit();
             this.ResumeLayout(false);
